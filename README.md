@@ -1,1 +1,3 @@
 # MongoDB--json-transform-excel
+由于MongoDBCompass收集数据json格式的特性，无法使用市面上已有的json转excel工具。
+此项目用于MongoDBCompass特有的转换json为excel
